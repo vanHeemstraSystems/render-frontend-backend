@@ -15,9 +15,9 @@ Thanks for reaching out.
 
 # 300 - Building Our Application
 
-Every project is different, so you will know what commands are required to get your app up and running. If you have a frontend and backend in the same repo, that’s a “monorepo” and Render has support for that: Monorepo Support
+Every project is different, so you will know what commands are required to get your app up and running. If you have a frontend and backend in the same repo, that’s a “monorepo” and Render has support for that: [Monorepo Support](https://render.com/docs/monorepo-support)
 
-In general terms - and this may not be specific to your projects - a common pattern for what you’ve described would be to have the frontend app as a Static Site and the backend as a Web Service, using the Node Native Environment. So two services, both linked to the same repo with settings like (but amended to your required values):
+In general terms - and this may not be specific to your projects - a common pattern for what you’ve described would be to have the frontend app as a [Static Site](https://render.com/docs/static-sites) and the backend as a [Web Service](https://render.com/docs/web-services), using the Node [Native Environment](https://render.com/docs/native-environments). So two services, both linked to the same repo with settings like (but amended to your required values):
 
 A Web Service for the backend
 
